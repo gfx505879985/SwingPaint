@@ -82,6 +82,11 @@ public class DrawShape extends JComponent
 		repaint();
 	}
 	
+	public void setColor(Color c)
+	{
+		g2.setPaint(c);
+		repaint();
+	}
 	//public void set paint
 	
 }
