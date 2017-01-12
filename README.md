@@ -16,3 +16,9 @@ However I will add more functions like color wheel, menu bar, tool bars, brushes
 It is a fun learning expereience, google things online.
 
 I will try to update as soon as possible.
+
+2017/1/11
+
+Today I added main skeleton of menu
+
+I will be working on color wheel and undo stack the next
